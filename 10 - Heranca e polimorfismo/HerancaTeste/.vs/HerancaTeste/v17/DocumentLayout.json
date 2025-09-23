@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Documents\\estudo\\programa\u00E7\u00E3o\\C#\\estudo-C-\\10 - Heranca e polimorfismo\\HerancaTeste\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F128F7FD-376E-434E-8019-2823282A39BD}|HerancaTeste\\HerancaTeste.csproj|c:\\users\\user\\documents\\estudo\\programa\u00E7\u00E3o\\c#\\estudo-c-\\10 - heranca e polimorfismo\\herancateste\\herancateste\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F128F7FD-376E-434E-8019-2823282A39BD}|HerancaTeste\\HerancaTeste.csproj|solutionrelative:herancateste\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F128F7FD-376E-434E-8019-2823282A39BD}|HerancaTeste\\HerancaTeste.csproj|c:\\users\\user\\documents\\estudo\\programa\u00E7\u00E3o\\c#\\estudo-c-\\10 - heranca e polimorfismo\\herancateste\\herancateste\\entities\\subclasse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F128F7FD-376E-434E-8019-2823282A39BD}|HerancaTeste\\HerancaTeste.csproj|solutionrelative:herancateste\\entities\\subclasse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F128F7FD-376E-434E-8019-2823282A39BD}|HerancaTeste\\HerancaTeste.csproj|c:\\users\\user\\documents\\estudo\\programa\u00E7\u00E3o\\c#\\estudo-c-\\10 - heranca e polimorfismo\\herancateste\\herancateste\\entities\\superclasse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F128F7FD-376E-434E-8019-2823282A39BD}|HerancaTeste\\HerancaTeste.csproj|solutionrelative:herancateste\\entities\\superclasse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SubClasse.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\estudo\\programa\u00E7\u00E3o\\C#\\estudo-C-\\10 - Heranca e polimorfismo\\HerancaTeste\\HerancaTeste\\Entities\\SubClasse.cs",
+              "RelativeDocumentMoniker": "HerancaTeste\\Entities\\SubClasse.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\estudo\\programa\u00E7\u00E3o\\C#\\estudo-C-\\10 - Heranca e polimorfismo\\HerancaTeste\\HerancaTeste\\Entities\\SubClasse.cs",
+              "RelativeToolTip": "HerancaTeste\\Entities\\SubClasse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T16:33:52.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SuperClasse.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\estudo\\programa\u00E7\u00E3o\\C#\\estudo-C-\\10 - Heranca e polimorfismo\\HerancaTeste\\HerancaTeste\\Entities\\SuperClasse.cs",
+              "RelativeDocumentMoniker": "HerancaTeste\\Entities\\SuperClasse.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\estudo\\programa\u00E7\u00E3o\\C#\\estudo-C-\\10 - Heranca e polimorfismo\\HerancaTeste\\HerancaTeste\\Entities\\SuperClasse.cs",
+              "RelativeToolTip": "HerancaTeste\\Entities\\SuperClasse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T16:33:41.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\estudo\\programa\u00E7\u00E3o\\C#\\estudo-C-\\10 - Heranca e polimorfismo\\HerancaTeste\\HerancaTeste\\Program.cs",
+              "RelativeDocumentMoniker": "HerancaTeste\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\estudo\\programa\u00E7\u00E3o\\C#\\estudo-C-\\10 - Heranca e polimorfismo\\HerancaTeste\\HerancaTeste\\Program.cs",
+              "RelativeToolTip": "HerancaTeste\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T16:23:49.817Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

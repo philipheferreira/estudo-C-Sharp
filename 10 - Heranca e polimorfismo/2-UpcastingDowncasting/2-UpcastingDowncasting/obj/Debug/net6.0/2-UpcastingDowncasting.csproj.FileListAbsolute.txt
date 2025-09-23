@@ -1,0 +1,15 @@
+C:\Users\phili\Documents\estudo\C#\estudo-C-\10 - Heranca e polimorfismo\2-UpcastingDowncasting\2-UpcastingDowncasting\bin\Debug\net6.0\2-UpcastingDowncasting.exe
+C:\Users\phili\Documents\estudo\C#\estudo-C-\10 - Heranca e polimorfismo\2-UpcastingDowncasting\2-UpcastingDowncasting\bin\Debug\net6.0\2-UpcastingDowncasting.deps.json
+C:\Users\phili\Documents\estudo\C#\estudo-C-\10 - Heranca e polimorfismo\2-UpcastingDowncasting\2-UpcastingDowncasting\bin\Debug\net6.0\2-UpcastingDowncasting.runtimeconfig.json
+C:\Users\phili\Documents\estudo\C#\estudo-C-\10 - Heranca e polimorfismo\2-UpcastingDowncasting\2-UpcastingDowncasting\bin\Debug\net6.0\2-UpcastingDowncasting.dll
+C:\Users\phili\Documents\estudo\C#\estudo-C-\10 - Heranca e polimorfismo\2-UpcastingDowncasting\2-UpcastingDowncasting\bin\Debug\net6.0\2-UpcastingDowncasting.pdb
+C:\Users\phili\Documents\estudo\C#\estudo-C-\10 - Heranca e polimorfismo\2-UpcastingDowncasting\2-UpcastingDowncasting\obj\Debug\net6.0\2-UpcastingDowncasting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phili\Documents\estudo\C#\estudo-C-\10 - Heranca e polimorfismo\2-UpcastingDowncasting\2-UpcastingDowncasting\obj\Debug\net6.0\2-UpcastingDowncasting.AssemblyInfoInputs.cache
+C:\Users\phili\Documents\estudo\C#\estudo-C-\10 - Heranca e polimorfismo\2-UpcastingDowncasting\2-UpcastingDowncasting\obj\Debug\net6.0\2-UpcastingDowncasting.AssemblyInfo.cs
+C:\Users\phili\Documents\estudo\C#\estudo-C-\10 - Heranca e polimorfismo\2-UpcastingDowncasting\2-UpcastingDowncasting\obj\Debug\net6.0\2-UpcastingDowncasting.csproj.CoreCompileInputs.cache
+C:\Users\phili\Documents\estudo\C#\estudo-C-\10 - Heranca e polimorfismo\2-UpcastingDowncasting\2-UpcastingDowncasting\obj\Debug\net6.0\2-UpcastingDowncasting.sourcelink.json
+C:\Users\phili\Documents\estudo\C#\estudo-C-\10 - Heranca e polimorfismo\2-UpcastingDowncasting\2-UpcastingDowncasting\obj\Debug\net6.0\2-UpcastingDowncasting.dll
+C:\Users\phili\Documents\estudo\C#\estudo-C-\10 - Heranca e polimorfismo\2-UpcastingDowncasting\2-UpcastingDowncasting\obj\Debug\net6.0\refint\2-UpcastingDowncasting.dll
+C:\Users\phili\Documents\estudo\C#\estudo-C-\10 - Heranca e polimorfismo\2-UpcastingDowncasting\2-UpcastingDowncasting\obj\Debug\net6.0\2-UpcastingDowncasting.pdb
+C:\Users\phili\Documents\estudo\C#\estudo-C-\10 - Heranca e polimorfismo\2-UpcastingDowncasting\2-UpcastingDowncasting\obj\Debug\net6.0\2-UpcastingDowncasting.genruntimeconfig.cache
+C:\Users\phili\Documents\estudo\C#\estudo-C-\10 - Heranca e polimorfismo\2-UpcastingDowncasting\2-UpcastingDowncasting\obj\Debug\net6.0\ref\2-UpcastingDowncasting.dll

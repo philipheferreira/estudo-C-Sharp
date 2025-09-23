@@ -1,0 +1,15 @@
+C:\Users\User\Documents\estudo\programação\C#\Cursos\estudo-C-\6 - Comportamento de memória, arrays, listas\1-ClasseTipoReferencia\1-ClasseTipoReferencia\bin\Debug\net6.0\1-ClasseTipoReferencia.exe
+C:\Users\User\Documents\estudo\programação\C#\Cursos\estudo-C-\6 - Comportamento de memória, arrays, listas\1-ClasseTipoReferencia\1-ClasseTipoReferencia\bin\Debug\net6.0\1-ClasseTipoReferencia.deps.json
+C:\Users\User\Documents\estudo\programação\C#\Cursos\estudo-C-\6 - Comportamento de memória, arrays, listas\1-ClasseTipoReferencia\1-ClasseTipoReferencia\bin\Debug\net6.0\1-ClasseTipoReferencia.runtimeconfig.json
+C:\Users\User\Documents\estudo\programação\C#\Cursos\estudo-C-\6 - Comportamento de memória, arrays, listas\1-ClasseTipoReferencia\1-ClasseTipoReferencia\bin\Debug\net6.0\1-ClasseTipoReferencia.dll
+C:\Users\User\Documents\estudo\programação\C#\Cursos\estudo-C-\6 - Comportamento de memória, arrays, listas\1-ClasseTipoReferencia\1-ClasseTipoReferencia\bin\Debug\net6.0\1-ClasseTipoReferencia.pdb
+C:\Users\User\Documents\estudo\programação\C#\Cursos\estudo-C-\6 - Comportamento de memória, arrays, listas\1-ClasseTipoReferencia\1-ClasseTipoReferencia\obj\Debug\net6.0\1-ClasseTipoReferencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\estudo\programação\C#\Cursos\estudo-C-\6 - Comportamento de memória, arrays, listas\1-ClasseTipoReferencia\1-ClasseTipoReferencia\obj\Debug\net6.0\1-ClasseTipoReferencia.AssemblyInfoInputs.cache
+C:\Users\User\Documents\estudo\programação\C#\Cursos\estudo-C-\6 - Comportamento de memória, arrays, listas\1-ClasseTipoReferencia\1-ClasseTipoReferencia\obj\Debug\net6.0\1-ClasseTipoReferencia.AssemblyInfo.cs
+C:\Users\User\Documents\estudo\programação\C#\Cursos\estudo-C-\6 - Comportamento de memória, arrays, listas\1-ClasseTipoReferencia\1-ClasseTipoReferencia\obj\Debug\net6.0\1-ClasseTipoReferencia.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\estudo\programação\C#\Cursos\estudo-C-\6 - Comportamento de memória, arrays, listas\1-ClasseTipoReferencia\1-ClasseTipoReferencia\obj\Debug\net6.0\1-ClasseTipoReferencia.sourcelink.json
+C:\Users\User\Documents\estudo\programação\C#\Cursos\estudo-C-\6 - Comportamento de memória, arrays, listas\1-ClasseTipoReferencia\1-ClasseTipoReferencia\obj\Debug\net6.0\1-ClasseTipoReferencia.dll
+C:\Users\User\Documents\estudo\programação\C#\Cursos\estudo-C-\6 - Comportamento de memória, arrays, listas\1-ClasseTipoReferencia\1-ClasseTipoReferencia\obj\Debug\net6.0\refint\1-ClasseTipoReferencia.dll
+C:\Users\User\Documents\estudo\programação\C#\Cursos\estudo-C-\6 - Comportamento de memória, arrays, listas\1-ClasseTipoReferencia\1-ClasseTipoReferencia\obj\Debug\net6.0\1-ClasseTipoReferencia.pdb
+C:\Users\User\Documents\estudo\programação\C#\Cursos\estudo-C-\6 - Comportamento de memória, arrays, listas\1-ClasseTipoReferencia\1-ClasseTipoReferencia\obj\Debug\net6.0\1-ClasseTipoReferencia.genruntimeconfig.cache
+C:\Users\User\Documents\estudo\programação\C#\Cursos\estudo-C-\6 - Comportamento de memória, arrays, listas\1-ClasseTipoReferencia\1-ClasseTipoReferencia\obj\Debug\net6.0\ref\1-ClasseTipoReferencia.dll

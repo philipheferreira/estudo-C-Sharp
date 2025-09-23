@@ -1,0 +1,15 @@
+C:\Users\phili\Documents\estudo\C#\estudo-C-\10 - Heranca e polimorfismo\HerancaReTreino\HerancaReTreino\bin\Debug\net6.0\HerancaReTreino.exe
+C:\Users\phili\Documents\estudo\C#\estudo-C-\10 - Heranca e polimorfismo\HerancaReTreino\HerancaReTreino\bin\Debug\net6.0\HerancaReTreino.deps.json
+C:\Users\phili\Documents\estudo\C#\estudo-C-\10 - Heranca e polimorfismo\HerancaReTreino\HerancaReTreino\bin\Debug\net6.0\HerancaReTreino.runtimeconfig.json
+C:\Users\phili\Documents\estudo\C#\estudo-C-\10 - Heranca e polimorfismo\HerancaReTreino\HerancaReTreino\bin\Debug\net6.0\HerancaReTreino.dll
+C:\Users\phili\Documents\estudo\C#\estudo-C-\10 - Heranca e polimorfismo\HerancaReTreino\HerancaReTreino\bin\Debug\net6.0\HerancaReTreino.pdb
+C:\Users\phili\Documents\estudo\C#\estudo-C-\10 - Heranca e polimorfismo\HerancaReTreino\HerancaReTreino\obj\Debug\net6.0\HerancaReTreino.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phili\Documents\estudo\C#\estudo-C-\10 - Heranca e polimorfismo\HerancaReTreino\HerancaReTreino\obj\Debug\net6.0\HerancaReTreino.AssemblyInfoInputs.cache
+C:\Users\phili\Documents\estudo\C#\estudo-C-\10 - Heranca e polimorfismo\HerancaReTreino\HerancaReTreino\obj\Debug\net6.0\HerancaReTreino.AssemblyInfo.cs
+C:\Users\phili\Documents\estudo\C#\estudo-C-\10 - Heranca e polimorfismo\HerancaReTreino\HerancaReTreino\obj\Debug\net6.0\HerancaReTreino.csproj.CoreCompileInputs.cache
+C:\Users\phili\Documents\estudo\C#\estudo-C-\10 - Heranca e polimorfismo\HerancaReTreino\HerancaReTreino\obj\Debug\net6.0\HerancaReTreino.sourcelink.json
+C:\Users\phili\Documents\estudo\C#\estudo-C-\10 - Heranca e polimorfismo\HerancaReTreino\HerancaReTreino\obj\Debug\net6.0\HerancaReTreino.dll
+C:\Users\phili\Documents\estudo\C#\estudo-C-\10 - Heranca e polimorfismo\HerancaReTreino\HerancaReTreino\obj\Debug\net6.0\refint\HerancaReTreino.dll
+C:\Users\phili\Documents\estudo\C#\estudo-C-\10 - Heranca e polimorfismo\HerancaReTreino\HerancaReTreino\obj\Debug\net6.0\HerancaReTreino.pdb
+C:\Users\phili\Documents\estudo\C#\estudo-C-\10 - Heranca e polimorfismo\HerancaReTreino\HerancaReTreino\obj\Debug\net6.0\HerancaReTreino.genruntimeconfig.cache
+C:\Users\phili\Documents\estudo\C#\estudo-C-\10 - Heranca e polimorfismo\HerancaReTreino\HerancaReTreino\obj\Debug\net6.0\ref\HerancaReTreino.dll

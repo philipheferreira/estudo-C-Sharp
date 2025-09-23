@@ -1,0 +1,15 @@
+C:\Users\User\Documents\estudo\programação\C#\estudo-C-\4 - classes, atributos\1-exercicios classes, atributos e metodos\exc4\exc4\obj\Debug\net8.0\exc4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\estudo\programação\C#\estudo-C-\4 - classes, atributos\1-exercicios classes, atributos e metodos\exc4\exc4\obj\Debug\net8.0\exc4.AssemblyInfoInputs.cache
+C:\Users\User\Documents\estudo\programação\C#\estudo-C-\4 - classes, atributos\1-exercicios classes, atributos e metodos\exc4\exc4\obj\Debug\net8.0\exc4.AssemblyInfo.cs
+C:\Users\User\Documents\estudo\programação\C#\estudo-C-\4 - classes, atributos\1-exercicios classes, atributos e metodos\exc4\exc4\obj\Debug\net8.0\exc4.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\estudo\programação\C#\estudo-C-\4 - classes, atributos\1-exercicios classes, atributos e metodos\exc4\exc4\obj\Debug\net8.0\exc4.sourcelink.json
+C:\Users\User\Documents\estudo\programação\C#\estudo-C-\4 - classes, atributos\1-exercicios classes, atributos e metodos\exc4\exc4\bin\Debug\net8.0\exc4.exe
+C:\Users\User\Documents\estudo\programação\C#\estudo-C-\4 - classes, atributos\1-exercicios classes, atributos e metodos\exc4\exc4\bin\Debug\net8.0\exc4.deps.json
+C:\Users\User\Documents\estudo\programação\C#\estudo-C-\4 - classes, atributos\1-exercicios classes, atributos e metodos\exc4\exc4\bin\Debug\net8.0\exc4.runtimeconfig.json
+C:\Users\User\Documents\estudo\programação\C#\estudo-C-\4 - classes, atributos\1-exercicios classes, atributos e metodos\exc4\exc4\bin\Debug\net8.0\exc4.dll
+C:\Users\User\Documents\estudo\programação\C#\estudo-C-\4 - classes, atributos\1-exercicios classes, atributos e metodos\exc4\exc4\bin\Debug\net8.0\exc4.pdb
+C:\Users\User\Documents\estudo\programação\C#\estudo-C-\4 - classes, atributos\1-exercicios classes, atributos e metodos\exc4\exc4\obj\Debug\net8.0\exc4.dll
+C:\Users\User\Documents\estudo\programação\C#\estudo-C-\4 - classes, atributos\1-exercicios classes, atributos e metodos\exc4\exc4\obj\Debug\net8.0\refint\exc4.dll
+C:\Users\User\Documents\estudo\programação\C#\estudo-C-\4 - classes, atributos\1-exercicios classes, atributos e metodos\exc4\exc4\obj\Debug\net8.0\exc4.pdb
+C:\Users\User\Documents\estudo\programação\C#\estudo-C-\4 - classes, atributos\1-exercicios classes, atributos e metodos\exc4\exc4\obj\Debug\net8.0\exc4.genruntimeconfig.cache
+C:\Users\User\Documents\estudo\programação\C#\estudo-C-\4 - classes, atributos\1-exercicios classes, atributos e metodos\exc4\exc4\obj\Debug\net8.0\ref\exc4.dll

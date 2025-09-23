@@ -1,0 +1,15 @@
+C:\Users\User\Documents\estudo\programação\C#\Cursos\estudo-C-\6 - Comportamento de memória, arrays, listas\6 - Vetor2\6 - Vetor2\obj\Debug\net6.0\6 - Vetor2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\estudo\programação\C#\Cursos\estudo-C-\6 - Comportamento de memória, arrays, listas\6 - Vetor2\6 - Vetor2\obj\Debug\net6.0\6 - Vetor2.AssemblyInfoInputs.cache
+C:\Users\User\Documents\estudo\programação\C#\Cursos\estudo-C-\6 - Comportamento de memória, arrays, listas\6 - Vetor2\6 - Vetor2\obj\Debug\net6.0\6 - Vetor2.AssemblyInfo.cs
+C:\Users\User\Documents\estudo\programação\C#\Cursos\estudo-C-\6 - Comportamento de memória, arrays, listas\6 - Vetor2\6 - Vetor2\obj\Debug\net6.0\6 - Vetor2.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\estudo\programação\C#\Cursos\estudo-C-\6 - Comportamento de memória, arrays, listas\6 - Vetor2\6 - Vetor2\obj\Debug\net6.0\6 - Vetor2.sourcelink.json
+C:\Users\User\Documents\estudo\programação\C#\Cursos\estudo-C-\6 - Comportamento de memória, arrays, listas\6 - Vetor2\6 - Vetor2\bin\Debug\net6.0\6 - Vetor2.exe
+C:\Users\User\Documents\estudo\programação\C#\Cursos\estudo-C-\6 - Comportamento de memória, arrays, listas\6 - Vetor2\6 - Vetor2\bin\Debug\net6.0\6 - Vetor2.deps.json
+C:\Users\User\Documents\estudo\programação\C#\Cursos\estudo-C-\6 - Comportamento de memória, arrays, listas\6 - Vetor2\6 - Vetor2\bin\Debug\net6.0\6 - Vetor2.runtimeconfig.json
+C:\Users\User\Documents\estudo\programação\C#\Cursos\estudo-C-\6 - Comportamento de memória, arrays, listas\6 - Vetor2\6 - Vetor2\bin\Debug\net6.0\6 - Vetor2.dll
+C:\Users\User\Documents\estudo\programação\C#\Cursos\estudo-C-\6 - Comportamento de memória, arrays, listas\6 - Vetor2\6 - Vetor2\bin\Debug\net6.0\6 - Vetor2.pdb
+C:\Users\User\Documents\estudo\programação\C#\Cursos\estudo-C-\6 - Comportamento de memória, arrays, listas\6 - Vetor2\6 - Vetor2\obj\Debug\net6.0\6 - Vetor2.dll
+C:\Users\User\Documents\estudo\programação\C#\Cursos\estudo-C-\6 - Comportamento de memória, arrays, listas\6 - Vetor2\6 - Vetor2\obj\Debug\net6.0\refint\6 - Vetor2.dll
+C:\Users\User\Documents\estudo\programação\C#\Cursos\estudo-C-\6 - Comportamento de memória, arrays, listas\6 - Vetor2\6 - Vetor2\obj\Debug\net6.0\6 - Vetor2.pdb
+C:\Users\User\Documents\estudo\programação\C#\Cursos\estudo-C-\6 - Comportamento de memória, arrays, listas\6 - Vetor2\6 - Vetor2\obj\Debug\net6.0\6 - Vetor2.genruntimeconfig.cache
+C:\Users\User\Documents\estudo\programação\C#\Cursos\estudo-C-\6 - Comportamento de memória, arrays, listas\6 - Vetor2\6 - Vetor2\obj\Debug\net6.0\ref\6 - Vetor2.dll

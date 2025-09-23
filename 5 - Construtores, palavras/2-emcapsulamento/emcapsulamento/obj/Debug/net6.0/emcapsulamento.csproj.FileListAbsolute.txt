@@ -1,0 +1,30 @@
+C:\Users\User\Documents\estudo\trabalho\Backend\estudo\curso udemy\emcapsulamento\emcapsulamento\bin\Debug\net6.0\emcapsulamento.exe
+C:\Users\User\Documents\estudo\trabalho\Backend\estudo\curso udemy\emcapsulamento\emcapsulamento\bin\Debug\net6.0\emcapsulamento.deps.json
+C:\Users\User\Documents\estudo\trabalho\Backend\estudo\curso udemy\emcapsulamento\emcapsulamento\bin\Debug\net6.0\emcapsulamento.runtimeconfig.json
+C:\Users\User\Documents\estudo\trabalho\Backend\estudo\curso udemy\emcapsulamento\emcapsulamento\bin\Debug\net6.0\emcapsulamento.dll
+C:\Users\User\Documents\estudo\trabalho\Backend\estudo\curso udemy\emcapsulamento\emcapsulamento\bin\Debug\net6.0\emcapsulamento.pdb
+C:\Users\User\Documents\estudo\trabalho\Backend\estudo\curso udemy\emcapsulamento\emcapsulamento\obj\Debug\net6.0\emcapsulamento.csproj.AssemblyReference.cache
+C:\Users\User\Documents\estudo\trabalho\Backend\estudo\curso udemy\emcapsulamento\emcapsulamento\obj\Debug\net6.0\emcapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\estudo\trabalho\Backend\estudo\curso udemy\emcapsulamento\emcapsulamento\obj\Debug\net6.0\emcapsulamento.AssemblyInfoInputs.cache
+C:\Users\User\Documents\estudo\trabalho\Backend\estudo\curso udemy\emcapsulamento\emcapsulamento\obj\Debug\net6.0\emcapsulamento.AssemblyInfo.cs
+C:\Users\User\Documents\estudo\trabalho\Backend\estudo\curso udemy\emcapsulamento\emcapsulamento\obj\Debug\net6.0\emcapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\estudo\trabalho\Backend\estudo\curso udemy\emcapsulamento\emcapsulamento\obj\Debug\net6.0\emcapsulamento.dll
+C:\Users\User\Documents\estudo\trabalho\Backend\estudo\curso udemy\emcapsulamento\emcapsulamento\obj\Debug\net6.0\refint\emcapsulamento.dll
+C:\Users\User\Documents\estudo\trabalho\Backend\estudo\curso udemy\emcapsulamento\emcapsulamento\obj\Debug\net6.0\emcapsulamento.pdb
+C:\Users\User\Documents\estudo\trabalho\Backend\estudo\curso udemy\emcapsulamento\emcapsulamento\obj\Debug\net6.0\emcapsulamento.genruntimeconfig.cache
+C:\Users\User\Documents\estudo\trabalho\Backend\estudo\curso udemy\emcapsulamento\emcapsulamento\obj\Debug\net6.0\ref\emcapsulamento.dll
+C:\Users\User\Documents\estudo\programação\C#\estudo-C-\5 - Construtores, palavras\2-emcapsulamento\emcapsulamento\bin\Debug\net6.0\emcapsulamento.exe
+C:\Users\User\Documents\estudo\programação\C#\estudo-C-\5 - Construtores, palavras\2-emcapsulamento\emcapsulamento\bin\Debug\net6.0\emcapsulamento.deps.json
+C:\Users\User\Documents\estudo\programação\C#\estudo-C-\5 - Construtores, palavras\2-emcapsulamento\emcapsulamento\bin\Debug\net6.0\emcapsulamento.runtimeconfig.json
+C:\Users\User\Documents\estudo\programação\C#\estudo-C-\5 - Construtores, palavras\2-emcapsulamento\emcapsulamento\bin\Debug\net6.0\emcapsulamento.dll
+C:\Users\User\Documents\estudo\programação\C#\estudo-C-\5 - Construtores, palavras\2-emcapsulamento\emcapsulamento\bin\Debug\net6.0\emcapsulamento.pdb
+C:\Users\User\Documents\estudo\programação\C#\estudo-C-\5 - Construtores, palavras\2-emcapsulamento\emcapsulamento\obj\Debug\net6.0\emcapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\estudo\programação\C#\estudo-C-\5 - Construtores, palavras\2-emcapsulamento\emcapsulamento\obj\Debug\net6.0\emcapsulamento.AssemblyInfoInputs.cache
+C:\Users\User\Documents\estudo\programação\C#\estudo-C-\5 - Construtores, palavras\2-emcapsulamento\emcapsulamento\obj\Debug\net6.0\emcapsulamento.AssemblyInfo.cs
+C:\Users\User\Documents\estudo\programação\C#\estudo-C-\5 - Construtores, palavras\2-emcapsulamento\emcapsulamento\obj\Debug\net6.0\emcapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\estudo\programação\C#\estudo-C-\5 - Construtores, palavras\2-emcapsulamento\emcapsulamento\obj\Debug\net6.0\emcapsulamento.sourcelink.json
+C:\Users\User\Documents\estudo\programação\C#\estudo-C-\5 - Construtores, palavras\2-emcapsulamento\emcapsulamento\obj\Debug\net6.0\emcapsulamento.dll
+C:\Users\User\Documents\estudo\programação\C#\estudo-C-\5 - Construtores, palavras\2-emcapsulamento\emcapsulamento\obj\Debug\net6.0\refint\emcapsulamento.dll
+C:\Users\User\Documents\estudo\programação\C#\estudo-C-\5 - Construtores, palavras\2-emcapsulamento\emcapsulamento\obj\Debug\net6.0\emcapsulamento.pdb
+C:\Users\User\Documents\estudo\programação\C#\estudo-C-\5 - Construtores, palavras\2-emcapsulamento\emcapsulamento\obj\Debug\net6.0\emcapsulamento.genruntimeconfig.cache
+C:\Users\User\Documents\estudo\programação\C#\estudo-C-\5 - Construtores, palavras\2-emcapsulamento\emcapsulamento\obj\Debug\net6.0\ref\emcapsulamento.dll

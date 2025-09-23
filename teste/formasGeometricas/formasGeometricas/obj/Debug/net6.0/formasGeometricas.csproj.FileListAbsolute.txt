@@ -1,0 +1,15 @@
+C:\Users\User\Documents\estudo\programação\C#\curso udemy C# completo programação orientada a objetos\teste\formasGeometricas\formasGeometricas\bin\Debug\net6.0\formasGeometricas.exe
+C:\Users\User\Documents\estudo\programação\C#\curso udemy C# completo programação orientada a objetos\teste\formasGeometricas\formasGeometricas\bin\Debug\net6.0\formasGeometricas.deps.json
+C:\Users\User\Documents\estudo\programação\C#\curso udemy C# completo programação orientada a objetos\teste\formasGeometricas\formasGeometricas\bin\Debug\net6.0\formasGeometricas.runtimeconfig.json
+C:\Users\User\Documents\estudo\programação\C#\curso udemy C# completo programação orientada a objetos\teste\formasGeometricas\formasGeometricas\bin\Debug\net6.0\formasGeometricas.dll
+C:\Users\User\Documents\estudo\programação\C#\curso udemy C# completo programação orientada a objetos\teste\formasGeometricas\formasGeometricas\bin\Debug\net6.0\formasGeometricas.pdb
+C:\Users\User\Documents\estudo\programação\C#\curso udemy C# completo programação orientada a objetos\teste\formasGeometricas\formasGeometricas\obj\Debug\net6.0\formasGeometricas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\estudo\programação\C#\curso udemy C# completo programação orientada a objetos\teste\formasGeometricas\formasGeometricas\obj\Debug\net6.0\formasGeometricas.AssemblyInfoInputs.cache
+C:\Users\User\Documents\estudo\programação\C#\curso udemy C# completo programação orientada a objetos\teste\formasGeometricas\formasGeometricas\obj\Debug\net6.0\formasGeometricas.AssemblyInfo.cs
+C:\Users\User\Documents\estudo\programação\C#\curso udemy C# completo programação orientada a objetos\teste\formasGeometricas\formasGeometricas\obj\Debug\net6.0\formasGeometricas.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\estudo\programação\C#\curso udemy C# completo programação orientada a objetos\teste\formasGeometricas\formasGeometricas\obj\Debug\net6.0\formasGeometricas.sourcelink.json
+C:\Users\User\Documents\estudo\programação\C#\curso udemy C# completo programação orientada a objetos\teste\formasGeometricas\formasGeometricas\obj\Debug\net6.0\formasGeometricas.dll
+C:\Users\User\Documents\estudo\programação\C#\curso udemy C# completo programação orientada a objetos\teste\formasGeometricas\formasGeometricas\obj\Debug\net6.0\refint\formasGeometricas.dll
+C:\Users\User\Documents\estudo\programação\C#\curso udemy C# completo programação orientada a objetos\teste\formasGeometricas\formasGeometricas\obj\Debug\net6.0\formasGeometricas.pdb
+C:\Users\User\Documents\estudo\programação\C#\curso udemy C# completo programação orientada a objetos\teste\formasGeometricas\formasGeometricas\obj\Debug\net6.0\formasGeometricas.genruntimeconfig.cache
+C:\Users\User\Documents\estudo\programação\C#\curso udemy C# completo programação orientada a objetos\teste\formasGeometricas\formasGeometricas\obj\Debug\net6.0\ref\formasGeometricas.dll

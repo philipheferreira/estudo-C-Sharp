@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Documents\\estudo\\programa\u00E7\u00E3o\\C#\\estudo-C-\\10 - Heranca e polimorfismo\\1 - heranca\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BD50AB04-507D-4F3A-88B9-7B44EF94A2C0}|heranca\\heranca.csproj|c:\\users\\user\\documents\\estudo\\programa\u00E7\u00E3o\\c#\\estudo-c-\\10 - heranca e polimorfismo\\1 - heranca\\heranca\\entities\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD50AB04-507D-4F3A-88B9-7B44EF94A2C0}|heranca\\heranca.csproj|solutionrelative:heranca\\entities\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD50AB04-507D-4F3A-88B9-7B44EF94A2C0}|heranca\\heranca.csproj|c:\\users\\user\\documents\\estudo\\programa\u00E7\u00E3o\\c#\\estudo-c-\\10 - heranca e polimorfismo\\1 - heranca\\heranca\\entities\\businessaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD50AB04-507D-4F3A-88B9-7B44EF94A2C0}|heranca\\heranca.csproj|solutionrelative:heranca\\entities\\businessaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD50AB04-507D-4F3A-88B9-7B44EF94A2C0}|heranca\\heranca.csproj|c:\\users\\user\\documents\\estudo\\programa\u00E7\u00E3o\\c#\\estudo-c-\\10 - heranca e polimorfismo\\1 - heranca\\heranca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD50AB04-507D-4F3A-88B9-7B44EF94A2C0}|heranca\\heranca.csproj|solutionrelative:heranca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BusinessAccount.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\estudo\\programa\u00E7\u00E3o\\C#\\estudo-C-\\10 - Heranca e polimorfismo\\1 - heranca\\heranca\\Entities\\BusinessAccount.cs",
+              "RelativeDocumentMoniker": "heranca\\Entities\\BusinessAccount.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\estudo\\programa\u00E7\u00E3o\\C#\\estudo-C-\\10 - Heranca e polimorfismo\\1 - heranca\\heranca\\Entities\\BusinessAccount.cs",
+              "RelativeToolTip": "heranca\\Entities\\BusinessAccount.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T14:36:30.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\estudo\\programa\u00E7\u00E3o\\C#\\estudo-C-\\10 - Heranca e polimorfismo\\1 - heranca\\heranca\\Entities\\Account.cs",
+              "RelativeDocumentMoniker": "heranca\\Entities\\Account.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\estudo\\programa\u00E7\u00E3o\\C#\\estudo-C-\\10 - Heranca e polimorfismo\\1 - heranca\\heranca\\Entities\\Account.cs",
+              "RelativeToolTip": "heranca\\Entities\\Account.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T14:36:30.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\estudo\\programa\u00E7\u00E3o\\C#\\estudo-C-\\10 - Heranca e polimorfismo\\1 - heranca\\heranca\\Program.cs",
+              "RelativeDocumentMoniker": "heranca\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\estudo\\programa\u00E7\u00E3o\\C#\\estudo-C-\\10 - Heranca e polimorfismo\\1 - heranca\\heranca\\Program.cs",
+              "RelativeToolTip": "heranca\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T14:36:30.055Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

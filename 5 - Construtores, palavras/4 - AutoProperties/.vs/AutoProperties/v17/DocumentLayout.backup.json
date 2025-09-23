@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Documents\\estudo\\programa\u00E7\u00E3o\\C#\\estudo-C-\\5 - Construtores, palavras\\4 - AutoProperties\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{28470B7F-47AF-482F-B757-54E1A1108F2B}|AutoProperties\\AutoProperties.csproj|c:\\users\\user\\documents\\estudo\\programa\u00E7\u00E3o\\c#\\estudo-c-\\5 - construtores, palavras\\4 - autoproperties\\autoproperties\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28470B7F-47AF-482F-B757-54E1A1108F2B}|AutoProperties\\AutoProperties.csproj|solutionrelative:autoproperties\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28470B7F-47AF-482F-B757-54E1A1108F2B}|AutoProperties\\AutoProperties.csproj|c:\\users\\user\\documents\\estudo\\programa\u00E7\u00E3o\\c#\\estudo-c-\\5 - construtores, palavras\\4 - autoproperties\\autoproperties\\autoproperties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28470B7F-47AF-482F-B757-54E1A1108F2B}|AutoProperties\\AutoProperties.csproj|solutionrelative:autoproperties\\autoproperties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AutoProperties.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\estudo\\programa\u00E7\u00E3o\\C#\\estudo-C-\\5 - Construtores, palavras\\4 - AutoProperties\\AutoProperties\\AutoProperties.cs",
+              "RelativeDocumentMoniker": "AutoProperties\\AutoProperties.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\estudo\\programa\u00E7\u00E3o\\C#\\estudo-C-\\5 - Construtores, palavras\\4 - AutoProperties\\AutoProperties\\AutoProperties.cs",
+              "RelativeToolTip": "AutoProperties\\AutoProperties.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T17:56:20.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\estudo\\programa\u00E7\u00E3o\\C#\\estudo-C-\\5 - Construtores, palavras\\4 - AutoProperties\\AutoProperties\\Program.cs",
+              "RelativeDocumentMoniker": "AutoProperties\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\estudo\\programa\u00E7\u00E3o\\C#\\estudo-C-\\5 - Construtores, palavras\\4 - AutoProperties\\AutoProperties\\Program.cs",
+              "RelativeToolTip": "AutoProperties\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T17:56:20.169Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+C:\Users\User\Documents\estudo\trabalho\Backend\estudo\curso udemy\estrutura\estrutura\obj\Debug\net6.0\estrutura.csproj.AssemblyReference.cache
+C:\Users\User\Documents\estudo\trabalho\Backend\estudo\curso udemy\estrutura\estrutura\obj\Debug\net6.0\estrutura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\estudo\trabalho\Backend\estudo\curso udemy\estrutura\estrutura\obj\Debug\net6.0\estrutura.AssemblyInfoInputs.cache
+C:\Users\User\Documents\estudo\trabalho\Backend\estudo\curso udemy\estrutura\estrutura\obj\Debug\net6.0\estrutura.AssemblyInfo.cs
+C:\Users\User\Documents\estudo\trabalho\Backend\estudo\curso udemy\estrutura\estrutura\obj\Debug\net6.0\estrutura.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\estudo\trabalho\Backend\estudo\curso udemy\estrutura\estrutura\bin\Debug\net6.0\estrutura.exe
+C:\Users\User\Documents\estudo\trabalho\Backend\estudo\curso udemy\estrutura\estrutura\bin\Debug\net6.0\estrutura.deps.json
+C:\Users\User\Documents\estudo\trabalho\Backend\estudo\curso udemy\estrutura\estrutura\bin\Debug\net6.0\estrutura.runtimeconfig.json
+C:\Users\User\Documents\estudo\trabalho\Backend\estudo\curso udemy\estrutura\estrutura\bin\Debug\net6.0\estrutura.dll
+C:\Users\User\Documents\estudo\trabalho\Backend\estudo\curso udemy\estrutura\estrutura\bin\Debug\net6.0\estrutura.pdb
+C:\Users\User\Documents\estudo\trabalho\Backend\estudo\curso udemy\estrutura\estrutura\obj\Debug\net6.0\estrutura.dll
+C:\Users\User\Documents\estudo\trabalho\Backend\estudo\curso udemy\estrutura\estrutura\obj\Debug\net6.0\refint\estrutura.dll
+C:\Users\User\Documents\estudo\trabalho\Backend\estudo\curso udemy\estrutura\estrutura\obj\Debug\net6.0\estrutura.pdb
+C:\Users\User\Documents\estudo\trabalho\Backend\estudo\curso udemy\estrutura\estrutura\obj\Debug\net6.0\estrutura.genruntimeconfig.cache
+C:\Users\User\Documents\estudo\trabalho\Backend\estudo\curso udemy\estrutura\estrutura\obj\Debug\net6.0\ref\estrutura.dll
+C:\Users\User\Documents\estudo\programação\C#\Cursos\estudo-C-\6 - Comportamento de memória, arrays, listas\1 - estrutura\estrutura\bin\Debug\net6.0\estrutura.exe
+C:\Users\User\Documents\estudo\programação\C#\Cursos\estudo-C-\6 - Comportamento de memória, arrays, listas\1 - estrutura\estrutura\bin\Debug\net6.0\estrutura.deps.json
+C:\Users\User\Documents\estudo\programação\C#\Cursos\estudo-C-\6 - Comportamento de memória, arrays, listas\1 - estrutura\estrutura\bin\Debug\net6.0\estrutura.runtimeconfig.json
+C:\Users\User\Documents\estudo\programação\C#\Cursos\estudo-C-\6 - Comportamento de memória, arrays, listas\1 - estrutura\estrutura\bin\Debug\net6.0\estrutura.dll
+C:\Users\User\Documents\estudo\programação\C#\Cursos\estudo-C-\6 - Comportamento de memória, arrays, listas\1 - estrutura\estrutura\bin\Debug\net6.0\estrutura.pdb
+C:\Users\User\Documents\estudo\programação\C#\Cursos\estudo-C-\6 - Comportamento de memória, arrays, listas\1 - estrutura\estrutura\obj\Debug\net6.0\estrutura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\estudo\programação\C#\Cursos\estudo-C-\6 - Comportamento de memória, arrays, listas\1 - estrutura\estrutura\obj\Debug\net6.0\estrutura.AssemblyInfoInputs.cache
+C:\Users\User\Documents\estudo\programação\C#\Cursos\estudo-C-\6 - Comportamento de memória, arrays, listas\1 - estrutura\estrutura\obj\Debug\net6.0\estrutura.AssemblyInfo.cs
+C:\Users\User\Documents\estudo\programação\C#\Cursos\estudo-C-\6 - Comportamento de memória, arrays, listas\1 - estrutura\estrutura\obj\Debug\net6.0\estrutura.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\estudo\programação\C#\Cursos\estudo-C-\6 - Comportamento de memória, arrays, listas\1 - estrutura\estrutura\obj\Debug\net6.0\estrutura.sourcelink.json
+C:\Users\User\Documents\estudo\programação\C#\Cursos\estudo-C-\6 - Comportamento de memória, arrays, listas\1 - estrutura\estrutura\obj\Debug\net6.0\estrutura.dll
+C:\Users\User\Documents\estudo\programação\C#\Cursos\estudo-C-\6 - Comportamento de memória, arrays, listas\1 - estrutura\estrutura\obj\Debug\net6.0\refint\estrutura.dll
+C:\Users\User\Documents\estudo\programação\C#\Cursos\estudo-C-\6 - Comportamento de memória, arrays, listas\1 - estrutura\estrutura\obj\Debug\net6.0\estrutura.pdb
+C:\Users\User\Documents\estudo\programação\C#\Cursos\estudo-C-\6 - Comportamento de memória, arrays, listas\1 - estrutura\estrutura\obj\Debug\net6.0\estrutura.genruntimeconfig.cache
+C:\Users\User\Documents\estudo\programação\C#\Cursos\estudo-C-\6 - Comportamento de memória, arrays, listas\1 - estrutura\estrutura\obj\Debug\net6.0\ref\estrutura.dll

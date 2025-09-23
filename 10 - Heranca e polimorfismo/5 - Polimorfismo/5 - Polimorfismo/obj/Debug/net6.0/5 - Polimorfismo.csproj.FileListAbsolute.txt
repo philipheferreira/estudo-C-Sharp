@@ -1,0 +1,15 @@
+C:\Users\User\Documents\estudo\programação\C#\estudo-C-\10 - Heranca e polimorfismo\5 - Polimorfismo\5 - Polimorfismo\obj\Debug\net6.0\5 - Polimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\estudo\programação\C#\estudo-C-\10 - Heranca e polimorfismo\5 - Polimorfismo\5 - Polimorfismo\obj\Debug\net6.0\5 - Polimorfismo.AssemblyInfoInputs.cache
+C:\Users\User\Documents\estudo\programação\C#\estudo-C-\10 - Heranca e polimorfismo\5 - Polimorfismo\5 - Polimorfismo\obj\Debug\net6.0\5 - Polimorfismo.AssemblyInfo.cs
+C:\Users\User\Documents\estudo\programação\C#\estudo-C-\10 - Heranca e polimorfismo\5 - Polimorfismo\5 - Polimorfismo\obj\Debug\net6.0\5 - Polimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\estudo\programação\C#\estudo-C-\10 - Heranca e polimorfismo\5 - Polimorfismo\5 - Polimorfismo\obj\Debug\net6.0\5 - Polimorfismo.sourcelink.json
+C:\Users\User\Documents\estudo\programação\C#\estudo-C-\10 - Heranca e polimorfismo\5 - Polimorfismo\5 - Polimorfismo\bin\Debug\net6.0\5 - Polimorfismo.exe
+C:\Users\User\Documents\estudo\programação\C#\estudo-C-\10 - Heranca e polimorfismo\5 - Polimorfismo\5 - Polimorfismo\bin\Debug\net6.0\5 - Polimorfismo.deps.json
+C:\Users\User\Documents\estudo\programação\C#\estudo-C-\10 - Heranca e polimorfismo\5 - Polimorfismo\5 - Polimorfismo\bin\Debug\net6.0\5 - Polimorfismo.runtimeconfig.json
+C:\Users\User\Documents\estudo\programação\C#\estudo-C-\10 - Heranca e polimorfismo\5 - Polimorfismo\5 - Polimorfismo\bin\Debug\net6.0\5 - Polimorfismo.dll
+C:\Users\User\Documents\estudo\programação\C#\estudo-C-\10 - Heranca e polimorfismo\5 - Polimorfismo\5 - Polimorfismo\bin\Debug\net6.0\5 - Polimorfismo.pdb
+C:\Users\User\Documents\estudo\programação\C#\estudo-C-\10 - Heranca e polimorfismo\5 - Polimorfismo\5 - Polimorfismo\obj\Debug\net6.0\5 - Polimorfismo.dll
+C:\Users\User\Documents\estudo\programação\C#\estudo-C-\10 - Heranca e polimorfismo\5 - Polimorfismo\5 - Polimorfismo\obj\Debug\net6.0\refint\5 - Polimorfismo.dll
+C:\Users\User\Documents\estudo\programação\C#\estudo-C-\10 - Heranca e polimorfismo\5 - Polimorfismo\5 - Polimorfismo\obj\Debug\net6.0\5 - Polimorfismo.pdb
+C:\Users\User\Documents\estudo\programação\C#\estudo-C-\10 - Heranca e polimorfismo\5 - Polimorfismo\5 - Polimorfismo\obj\Debug\net6.0\5 - Polimorfismo.genruntimeconfig.cache
+C:\Users\User\Documents\estudo\programação\C#\estudo-C-\10 - Heranca e polimorfismo\5 - Polimorfismo\5 - Polimorfismo\obj\Debug\net6.0\ref\5 - Polimorfismo.dll

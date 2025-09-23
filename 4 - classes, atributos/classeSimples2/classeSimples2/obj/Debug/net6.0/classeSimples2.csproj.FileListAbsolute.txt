@@ -1,0 +1,15 @@
+C:\Users\User\Documents\estudo\programação\C#\curso udemy C# completo programação orientada a objetos\4 - classes, atributos\classeSimples2\classeSimples2\obj\Debug\net6.0\classeSimples2.csproj.AssemblyReference.cache
+C:\Users\User\Documents\estudo\programação\C#\curso udemy C# completo programação orientada a objetos\4 - classes, atributos\classeSimples2\classeSimples2\obj\Debug\net6.0\classeSimples2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\estudo\programação\C#\curso udemy C# completo programação orientada a objetos\4 - classes, atributos\classeSimples2\classeSimples2\obj\Debug\net6.0\classeSimples2.AssemblyInfoInputs.cache
+C:\Users\User\Documents\estudo\programação\C#\curso udemy C# completo programação orientada a objetos\4 - classes, atributos\classeSimples2\classeSimples2\obj\Debug\net6.0\classeSimples2.AssemblyInfo.cs
+C:\Users\User\Documents\estudo\programação\C#\curso udemy C# completo programação orientada a objetos\4 - classes, atributos\classeSimples2\classeSimples2\obj\Debug\net6.0\classeSimples2.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\estudo\programação\C#\curso udemy C# completo programação orientada a objetos\4 - classes, atributos\classeSimples2\classeSimples2\bin\Debug\net6.0\classeSimples2.exe
+C:\Users\User\Documents\estudo\programação\C#\curso udemy C# completo programação orientada a objetos\4 - classes, atributos\classeSimples2\classeSimples2\bin\Debug\net6.0\classeSimples2.deps.json
+C:\Users\User\Documents\estudo\programação\C#\curso udemy C# completo programação orientada a objetos\4 - classes, atributos\classeSimples2\classeSimples2\bin\Debug\net6.0\classeSimples2.runtimeconfig.json
+C:\Users\User\Documents\estudo\programação\C#\curso udemy C# completo programação orientada a objetos\4 - classes, atributos\classeSimples2\classeSimples2\bin\Debug\net6.0\classeSimples2.dll
+C:\Users\User\Documents\estudo\programação\C#\curso udemy C# completo programação orientada a objetos\4 - classes, atributos\classeSimples2\classeSimples2\bin\Debug\net6.0\classeSimples2.pdb
+C:\Users\User\Documents\estudo\programação\C#\curso udemy C# completo programação orientada a objetos\4 - classes, atributos\classeSimples2\classeSimples2\obj\Debug\net6.0\classeSimples2.dll
+C:\Users\User\Documents\estudo\programação\C#\curso udemy C# completo programação orientada a objetos\4 - classes, atributos\classeSimples2\classeSimples2\obj\Debug\net6.0\refint\classeSimples2.dll
+C:\Users\User\Documents\estudo\programação\C#\curso udemy C# completo programação orientada a objetos\4 - classes, atributos\classeSimples2\classeSimples2\obj\Debug\net6.0\classeSimples2.pdb
+C:\Users\User\Documents\estudo\programação\C#\curso udemy C# completo programação orientada a objetos\4 - classes, atributos\classeSimples2\classeSimples2\obj\Debug\net6.0\classeSimples2.genruntimeconfig.cache
+C:\Users\User\Documents\estudo\programação\C#\curso udemy C# completo programação orientada a objetos\4 - classes, atributos\classeSimples2\classeSimples2\obj\Debug\net6.0\ref\classeSimples2.dll

@@ -1,0 +1,15 @@
+C:\Users\User\Documents\estudo\programação\C#\estudo-C-\10 - Heranca e polimorfismo\4-Classes_e_metodos_selados\4-Classes_e_metodos_selados\bin\Debug\net6.0\4-Classes_e_metodos_selados.exe
+C:\Users\User\Documents\estudo\programação\C#\estudo-C-\10 - Heranca e polimorfismo\4-Classes_e_metodos_selados\4-Classes_e_metodos_selados\bin\Debug\net6.0\4-Classes_e_metodos_selados.deps.json
+C:\Users\User\Documents\estudo\programação\C#\estudo-C-\10 - Heranca e polimorfismo\4-Classes_e_metodos_selados\4-Classes_e_metodos_selados\bin\Debug\net6.0\4-Classes_e_metodos_selados.runtimeconfig.json
+C:\Users\User\Documents\estudo\programação\C#\estudo-C-\10 - Heranca e polimorfismo\4-Classes_e_metodos_selados\4-Classes_e_metodos_selados\bin\Debug\net6.0\4-Classes_e_metodos_selados.dll
+C:\Users\User\Documents\estudo\programação\C#\estudo-C-\10 - Heranca e polimorfismo\4-Classes_e_metodos_selados\4-Classes_e_metodos_selados\bin\Debug\net6.0\4-Classes_e_metodos_selados.pdb
+C:\Users\User\Documents\estudo\programação\C#\estudo-C-\10 - Heranca e polimorfismo\4-Classes_e_metodos_selados\4-Classes_e_metodos_selados\obj\Debug\net6.0\4-Classes_e_metodos_selados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\estudo\programação\C#\estudo-C-\10 - Heranca e polimorfismo\4-Classes_e_metodos_selados\4-Classes_e_metodos_selados\obj\Debug\net6.0\4-Classes_e_metodos_selados.AssemblyInfoInputs.cache
+C:\Users\User\Documents\estudo\programação\C#\estudo-C-\10 - Heranca e polimorfismo\4-Classes_e_metodos_selados\4-Classes_e_metodos_selados\obj\Debug\net6.0\4-Classes_e_metodos_selados.AssemblyInfo.cs
+C:\Users\User\Documents\estudo\programação\C#\estudo-C-\10 - Heranca e polimorfismo\4-Classes_e_metodos_selados\4-Classes_e_metodos_selados\obj\Debug\net6.0\4-Classes_e_metodos_selados.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\estudo\programação\C#\estudo-C-\10 - Heranca e polimorfismo\4-Classes_e_metodos_selados\4-Classes_e_metodos_selados\obj\Debug\net6.0\4-Classes_e_metodos_selados.sourcelink.json
+C:\Users\User\Documents\estudo\programação\C#\estudo-C-\10 - Heranca e polimorfismo\4-Classes_e_metodos_selados\4-Classes_e_metodos_selados\obj\Debug\net6.0\4-Classes_e_metodos_selados.dll
+C:\Users\User\Documents\estudo\programação\C#\estudo-C-\10 - Heranca e polimorfismo\4-Classes_e_metodos_selados\4-Classes_e_metodos_selados\obj\Debug\net6.0\refint\4-Classes_e_metodos_selados.dll
+C:\Users\User\Documents\estudo\programação\C#\estudo-C-\10 - Heranca e polimorfismo\4-Classes_e_metodos_selados\4-Classes_e_metodos_selados\obj\Debug\net6.0\4-Classes_e_metodos_selados.pdb
+C:\Users\User\Documents\estudo\programação\C#\estudo-C-\10 - Heranca e polimorfismo\4-Classes_e_metodos_selados\4-Classes_e_metodos_selados\obj\Debug\net6.0\4-Classes_e_metodos_selados.genruntimeconfig.cache
+C:\Users\User\Documents\estudo\programação\C#\estudo-C-\10 - Heranca e polimorfismo\4-Classes_e_metodos_selados\4-Classes_e_metodos_selados\obj\Debug\net6.0\ref\4-Classes_e_metodos_selados.dll

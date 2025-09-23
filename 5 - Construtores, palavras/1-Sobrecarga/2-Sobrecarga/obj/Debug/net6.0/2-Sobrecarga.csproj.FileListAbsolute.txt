@@ -1,0 +1,30 @@
+C:\Users\User\Documents\estudo\trabalho\Backend\estudo\curso udemy\2-Sobrecarga\2-Sobrecarga\bin\Debug\net6.0\2-Sobrecarga.exe
+C:\Users\User\Documents\estudo\trabalho\Backend\estudo\curso udemy\2-Sobrecarga\2-Sobrecarga\bin\Debug\net6.0\2-Sobrecarga.deps.json
+C:\Users\User\Documents\estudo\trabalho\Backend\estudo\curso udemy\2-Sobrecarga\2-Sobrecarga\bin\Debug\net6.0\2-Sobrecarga.runtimeconfig.json
+C:\Users\User\Documents\estudo\trabalho\Backend\estudo\curso udemy\2-Sobrecarga\2-Sobrecarga\bin\Debug\net6.0\2-Sobrecarga.dll
+C:\Users\User\Documents\estudo\trabalho\Backend\estudo\curso udemy\2-Sobrecarga\2-Sobrecarga\bin\Debug\net6.0\2-Sobrecarga.pdb
+C:\Users\User\Documents\estudo\trabalho\Backend\estudo\curso udemy\2-Sobrecarga\2-Sobrecarga\obj\Debug\net6.0\2-Sobrecarga.csproj.AssemblyReference.cache
+C:\Users\User\Documents\estudo\trabalho\Backend\estudo\curso udemy\2-Sobrecarga\2-Sobrecarga\obj\Debug\net6.0\2-Sobrecarga.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\estudo\trabalho\Backend\estudo\curso udemy\2-Sobrecarga\2-Sobrecarga\obj\Debug\net6.0\2-Sobrecarga.AssemblyInfoInputs.cache
+C:\Users\User\Documents\estudo\trabalho\Backend\estudo\curso udemy\2-Sobrecarga\2-Sobrecarga\obj\Debug\net6.0\2-Sobrecarga.AssemblyInfo.cs
+C:\Users\User\Documents\estudo\trabalho\Backend\estudo\curso udemy\2-Sobrecarga\2-Sobrecarga\obj\Debug\net6.0\2-Sobrecarga.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\estudo\trabalho\Backend\estudo\curso udemy\2-Sobrecarga\2-Sobrecarga\obj\Debug\net6.0\2-Sobrecarga.dll
+C:\Users\User\Documents\estudo\trabalho\Backend\estudo\curso udemy\2-Sobrecarga\2-Sobrecarga\obj\Debug\net6.0\refint\2-Sobrecarga.dll
+C:\Users\User\Documents\estudo\trabalho\Backend\estudo\curso udemy\2-Sobrecarga\2-Sobrecarga\obj\Debug\net6.0\2-Sobrecarga.pdb
+C:\Users\User\Documents\estudo\trabalho\Backend\estudo\curso udemy\2-Sobrecarga\2-Sobrecarga\obj\Debug\net6.0\2-Sobrecarga.genruntimeconfig.cache
+C:\Users\User\Documents\estudo\trabalho\Backend\estudo\curso udemy\2-Sobrecarga\2-Sobrecarga\obj\Debug\net6.0\ref\2-Sobrecarga.dll
+C:\Users\User\Documents\estudo\programação\C#\estudo-C-\5 - Construtores, palavras\1-Sobrecarga\2-Sobrecarga\bin\Debug\net6.0\2-Sobrecarga.exe
+C:\Users\User\Documents\estudo\programação\C#\estudo-C-\5 - Construtores, palavras\1-Sobrecarga\2-Sobrecarga\bin\Debug\net6.0\2-Sobrecarga.deps.json
+C:\Users\User\Documents\estudo\programação\C#\estudo-C-\5 - Construtores, palavras\1-Sobrecarga\2-Sobrecarga\bin\Debug\net6.0\2-Sobrecarga.runtimeconfig.json
+C:\Users\User\Documents\estudo\programação\C#\estudo-C-\5 - Construtores, palavras\1-Sobrecarga\2-Sobrecarga\bin\Debug\net6.0\2-Sobrecarga.dll
+C:\Users\User\Documents\estudo\programação\C#\estudo-C-\5 - Construtores, palavras\1-Sobrecarga\2-Sobrecarga\bin\Debug\net6.0\2-Sobrecarga.pdb
+C:\Users\User\Documents\estudo\programação\C#\estudo-C-\5 - Construtores, palavras\1-Sobrecarga\2-Sobrecarga\obj\Debug\net6.0\2-Sobrecarga.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\estudo\programação\C#\estudo-C-\5 - Construtores, palavras\1-Sobrecarga\2-Sobrecarga\obj\Debug\net6.0\2-Sobrecarga.AssemblyInfoInputs.cache
+C:\Users\User\Documents\estudo\programação\C#\estudo-C-\5 - Construtores, palavras\1-Sobrecarga\2-Sobrecarga\obj\Debug\net6.0\2-Sobrecarga.AssemblyInfo.cs
+C:\Users\User\Documents\estudo\programação\C#\estudo-C-\5 - Construtores, palavras\1-Sobrecarga\2-Sobrecarga\obj\Debug\net6.0\2-Sobrecarga.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\estudo\programação\C#\estudo-C-\5 - Construtores, palavras\1-Sobrecarga\2-Sobrecarga\obj\Debug\net6.0\2-Sobrecarga.sourcelink.json
+C:\Users\User\Documents\estudo\programação\C#\estudo-C-\5 - Construtores, palavras\1-Sobrecarga\2-Sobrecarga\obj\Debug\net6.0\2-Sobrecarga.dll
+C:\Users\User\Documents\estudo\programação\C#\estudo-C-\5 - Construtores, palavras\1-Sobrecarga\2-Sobrecarga\obj\Debug\net6.0\refint\2-Sobrecarga.dll
+C:\Users\User\Documents\estudo\programação\C#\estudo-C-\5 - Construtores, palavras\1-Sobrecarga\2-Sobrecarga\obj\Debug\net6.0\2-Sobrecarga.pdb
+C:\Users\User\Documents\estudo\programação\C#\estudo-C-\5 - Construtores, palavras\1-Sobrecarga\2-Sobrecarga\obj\Debug\net6.0\2-Sobrecarga.genruntimeconfig.cache
+C:\Users\User\Documents\estudo\programação\C#\estudo-C-\5 - Construtores, palavras\1-Sobrecarga\2-Sobrecarga\obj\Debug\net6.0\ref\2-Sobrecarga.dll

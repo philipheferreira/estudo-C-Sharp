@@ -1,0 +1,15 @@
+C:\Users\User\Documents\estudo\programação\C#\estudo-C-\10 - Heranca e polimorfismo\HerancaTeste\HerancaTeste\obj\Debug\net6.0\HerancaTeste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\estudo\programação\C#\estudo-C-\10 - Heranca e polimorfismo\HerancaTeste\HerancaTeste\obj\Debug\net6.0\HerancaTeste.AssemblyInfoInputs.cache
+C:\Users\User\Documents\estudo\programação\C#\estudo-C-\10 - Heranca e polimorfismo\HerancaTeste\HerancaTeste\obj\Debug\net6.0\HerancaTeste.AssemblyInfo.cs
+C:\Users\User\Documents\estudo\programação\C#\estudo-C-\10 - Heranca e polimorfismo\HerancaTeste\HerancaTeste\obj\Debug\net6.0\HerancaTeste.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\estudo\programação\C#\estudo-C-\10 - Heranca e polimorfismo\HerancaTeste\HerancaTeste\obj\Debug\net6.0\HerancaTeste.sourcelink.json
+C:\Users\User\Documents\estudo\programação\C#\estudo-C-\10 - Heranca e polimorfismo\HerancaTeste\HerancaTeste\bin\Debug\net6.0\HerancaTeste.exe
+C:\Users\User\Documents\estudo\programação\C#\estudo-C-\10 - Heranca e polimorfismo\HerancaTeste\HerancaTeste\bin\Debug\net6.0\HerancaTeste.deps.json
+C:\Users\User\Documents\estudo\programação\C#\estudo-C-\10 - Heranca e polimorfismo\HerancaTeste\HerancaTeste\bin\Debug\net6.0\HerancaTeste.runtimeconfig.json
+C:\Users\User\Documents\estudo\programação\C#\estudo-C-\10 - Heranca e polimorfismo\HerancaTeste\HerancaTeste\bin\Debug\net6.0\HerancaTeste.dll
+C:\Users\User\Documents\estudo\programação\C#\estudo-C-\10 - Heranca e polimorfismo\HerancaTeste\HerancaTeste\bin\Debug\net6.0\HerancaTeste.pdb
+C:\Users\User\Documents\estudo\programação\C#\estudo-C-\10 - Heranca e polimorfismo\HerancaTeste\HerancaTeste\obj\Debug\net6.0\HerancaTeste.dll
+C:\Users\User\Documents\estudo\programação\C#\estudo-C-\10 - Heranca e polimorfismo\HerancaTeste\HerancaTeste\obj\Debug\net6.0\refint\HerancaTeste.dll
+C:\Users\User\Documents\estudo\programação\C#\estudo-C-\10 - Heranca e polimorfismo\HerancaTeste\HerancaTeste\obj\Debug\net6.0\HerancaTeste.pdb
+C:\Users\User\Documents\estudo\programação\C#\estudo-C-\10 - Heranca e polimorfismo\HerancaTeste\HerancaTeste\obj\Debug\net6.0\HerancaTeste.genruntimeconfig.cache
+C:\Users\User\Documents\estudo\programação\C#\estudo-C-\10 - Heranca e polimorfismo\HerancaTeste\HerancaTeste\obj\Debug\net6.0\ref\HerancaTeste.dll

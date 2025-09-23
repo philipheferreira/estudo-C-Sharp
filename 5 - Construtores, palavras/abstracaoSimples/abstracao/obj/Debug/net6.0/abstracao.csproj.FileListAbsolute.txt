@@ -1,0 +1,15 @@
+C:\Users\User\Documents\estudo\programação\C#\curso udemy C# completo programação orientada a objetos\5 - Construtores, palavras\abstracaoSimples\abstracao\obj\Debug\net6.0\abstracao.csproj.AssemblyReference.cache
+C:\Users\User\Documents\estudo\programação\C#\curso udemy C# completo programação orientada a objetos\5 - Construtores, palavras\abstracaoSimples\abstracao\obj\Debug\net6.0\abstracao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\estudo\programação\C#\curso udemy C# completo programação orientada a objetos\5 - Construtores, palavras\abstracaoSimples\abstracao\obj\Debug\net6.0\abstracao.AssemblyInfoInputs.cache
+C:\Users\User\Documents\estudo\programação\C#\curso udemy C# completo programação orientada a objetos\5 - Construtores, palavras\abstracaoSimples\abstracao\obj\Debug\net6.0\abstracao.AssemblyInfo.cs
+C:\Users\User\Documents\estudo\programação\C#\curso udemy C# completo programação orientada a objetos\5 - Construtores, palavras\abstracaoSimples\abstracao\obj\Debug\net6.0\abstracao.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\estudo\programação\C#\curso udemy C# completo programação orientada a objetos\5 - Construtores, palavras\abstracaoSimples\abstracao\bin\Debug\net6.0\abstracao.exe
+C:\Users\User\Documents\estudo\programação\C#\curso udemy C# completo programação orientada a objetos\5 - Construtores, palavras\abstracaoSimples\abstracao\bin\Debug\net6.0\abstracao.deps.json
+C:\Users\User\Documents\estudo\programação\C#\curso udemy C# completo programação orientada a objetos\5 - Construtores, palavras\abstracaoSimples\abstracao\bin\Debug\net6.0\abstracao.runtimeconfig.json
+C:\Users\User\Documents\estudo\programação\C#\curso udemy C# completo programação orientada a objetos\5 - Construtores, palavras\abstracaoSimples\abstracao\bin\Debug\net6.0\abstracao.dll
+C:\Users\User\Documents\estudo\programação\C#\curso udemy C# completo programação orientada a objetos\5 - Construtores, palavras\abstracaoSimples\abstracao\bin\Debug\net6.0\abstracao.pdb
+C:\Users\User\Documents\estudo\programação\C#\curso udemy C# completo programação orientada a objetos\5 - Construtores, palavras\abstracaoSimples\abstracao\obj\Debug\net6.0\abstracao.dll
+C:\Users\User\Documents\estudo\programação\C#\curso udemy C# completo programação orientada a objetos\5 - Construtores, palavras\abstracaoSimples\abstracao\obj\Debug\net6.0\refint\abstracao.dll
+C:\Users\User\Documents\estudo\programação\C#\curso udemy C# completo programação orientada a objetos\5 - Construtores, palavras\abstracaoSimples\abstracao\obj\Debug\net6.0\abstracao.pdb
+C:\Users\User\Documents\estudo\programação\C#\curso udemy C# completo programação orientada a objetos\5 - Construtores, palavras\abstracaoSimples\abstracao\obj\Debug\net6.0\abstracao.genruntimeconfig.cache
+C:\Users\User\Documents\estudo\programação\C#\curso udemy C# completo programação orientada a objetos\5 - Construtores, palavras\abstracaoSimples\abstracao\obj\Debug\net6.0\ref\abstracao.dll
