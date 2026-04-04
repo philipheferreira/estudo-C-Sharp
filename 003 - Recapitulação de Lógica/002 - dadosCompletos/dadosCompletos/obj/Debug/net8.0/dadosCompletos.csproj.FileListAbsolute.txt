@@ -1,0 +1,15 @@
+C:\Users\phili\Documents\estudo\C-Sharp\estudo-C-Sharp\003 - Recapitulação de Lógica\002 - dadosCompletos\dadosCompletos\obj\Debug\net8.0\dadosCompletos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phili\Documents\estudo\C-Sharp\estudo-C-Sharp\003 - Recapitulação de Lógica\002 - dadosCompletos\dadosCompletos\obj\Debug\net8.0\dadosCompletos.AssemblyInfoInputs.cache
+C:\Users\phili\Documents\estudo\C-Sharp\estudo-C-Sharp\003 - Recapitulação de Lógica\002 - dadosCompletos\dadosCompletos\obj\Debug\net8.0\dadosCompletos.AssemblyInfo.cs
+C:\Users\phili\Documents\estudo\C-Sharp\estudo-C-Sharp\003 - Recapitulação de Lógica\002 - dadosCompletos\dadosCompletos\obj\Debug\net8.0\dadosCompletos.csproj.CoreCompileInputs.cache
+C:\Users\phili\Documents\estudo\C-Sharp\estudo-C-Sharp\003 - Recapitulação de Lógica\002 - dadosCompletos\dadosCompletos\obj\Debug\net8.0\dadosCompletos.sourcelink.json
+C:\Users\phili\Documents\estudo\C-Sharp\estudo-C-Sharp\003 - Recapitulação de Lógica\002 - dadosCompletos\dadosCompletos\bin\Debug\net8.0\dadosCompletos.exe
+C:\Users\phili\Documents\estudo\C-Sharp\estudo-C-Sharp\003 - Recapitulação de Lógica\002 - dadosCompletos\dadosCompletos\bin\Debug\net8.0\dadosCompletos.deps.json
+C:\Users\phili\Documents\estudo\C-Sharp\estudo-C-Sharp\003 - Recapitulação de Lógica\002 - dadosCompletos\dadosCompletos\bin\Debug\net8.0\dadosCompletos.runtimeconfig.json
+C:\Users\phili\Documents\estudo\C-Sharp\estudo-C-Sharp\003 - Recapitulação de Lógica\002 - dadosCompletos\dadosCompletos\bin\Debug\net8.0\dadosCompletos.dll
+C:\Users\phili\Documents\estudo\C-Sharp\estudo-C-Sharp\003 - Recapitulação de Lógica\002 - dadosCompletos\dadosCompletos\bin\Debug\net8.0\dadosCompletos.pdb
+C:\Users\phili\Documents\estudo\C-Sharp\estudo-C-Sharp\003 - Recapitulação de Lógica\002 - dadosCompletos\dadosCompletos\obj\Debug\net8.0\dadosCompletos.dll
+C:\Users\phili\Documents\estudo\C-Sharp\estudo-C-Sharp\003 - Recapitulação de Lógica\002 - dadosCompletos\dadosCompletos\obj\Debug\net8.0\refint\dadosCompletos.dll
+C:\Users\phili\Documents\estudo\C-Sharp\estudo-C-Sharp\003 - Recapitulação de Lógica\002 - dadosCompletos\dadosCompletos\obj\Debug\net8.0\dadosCompletos.pdb
+C:\Users\phili\Documents\estudo\C-Sharp\estudo-C-Sharp\003 - Recapitulação de Lógica\002 - dadosCompletos\dadosCompletos\obj\Debug\net8.0\dadosCompletos.genruntimeconfig.cache
+C:\Users\phili\Documents\estudo\C-Sharp\estudo-C-Sharp\003 - Recapitulação de Lógica\002 - dadosCompletos\dadosCompletos\obj\Debug\net8.0\ref\dadosCompletos.dll

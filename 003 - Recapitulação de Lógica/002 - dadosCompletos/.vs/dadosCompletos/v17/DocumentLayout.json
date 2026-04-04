@@ -1,12 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\phili\\Documents\\estudo\\C-Sharp\\estudo-C-Sharp\\003 - Recapitula\u00E7\u00E3o de L\u00F3gica\\dadosCompletos\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\phili\\Documents\\estudo\\C-Sharp\\estudo-C-Sharp\\003 - Recapitula\u00E7\u00E3o de L\u00F3gica\\002 - dadosCompletos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B8AD17FF-6D91-4BD1-A7C1-A8CD8286D8D6}|dadosCompletos\\dadosCompletos.csproj|c:\\users\\phili\\documents\\estudo\\c-sharp\\estudo-c-sharp\\003 - recapitula\u00E7\u00E3o de l\u00F3gica\\002 - dadoscompletos\\dadoscompletos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8AD17FF-6D91-4BD1-A7C1-A8CD8286D8D6}|dadosCompletos\\dadosCompletos.csproj|solutionrelative:dadoscompletos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\phili\\Documents\\estudo\\C-Sharp\\estudo-C-Sharp\\003 - Recapitula\u00E7\u00E3o de L\u00F3gica\\002 - dadosCompletos\\dadosCompletos\\Program.cs",
+              "RelativeDocumentMoniker": "dadosCompletos\\Program.cs",
+              "ToolTip": "C:\\Users\\phili\\Documents\\estudo\\C-Sharp\\estudo-C-Sharp\\003 - Recapitula\u00E7\u00E3o de L\u00F3gica\\002 - dadosCompletos\\dadosCompletos\\Program.cs",
+              "RelativeToolTip": "dadosCompletos\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAkwCMAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T18:50:26.824Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

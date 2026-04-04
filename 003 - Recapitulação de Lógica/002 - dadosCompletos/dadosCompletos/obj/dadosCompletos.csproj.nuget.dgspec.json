@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\phili\\Documents\\estudo\\C-Sharp\\estudo-C-Sharp\\003 - Recapitulação de Lógica\\dadosCompletos\\dadosCompletos\\dadosCompletos.csproj": {}
+    "C:\\Users\\phili\\Documents\\estudo\\C-Sharp\\estudo-C-Sharp\\003 - Recapitulação de Lógica\\002 - dadosCompletos\\dadosCompletos\\dadosCompletos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\phili\\Documents\\estudo\\C-Sharp\\estudo-C-Sharp\\003 - Recapitulação de Lógica\\dadosCompletos\\dadosCompletos\\dadosCompletos.csproj": {
+    "C:\\Users\\phili\\Documents\\estudo\\C-Sharp\\estudo-C-Sharp\\003 - Recapitulação de Lógica\\002 - dadosCompletos\\dadosCompletos\\dadosCompletos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\phili\\Documents\\estudo\\C-Sharp\\estudo-C-Sharp\\003 - Recapitulação de Lógica\\dadosCompletos\\dadosCompletos\\dadosCompletos.csproj",
+        "projectUniqueName": "C:\\Users\\phili\\Documents\\estudo\\C-Sharp\\estudo-C-Sharp\\003 - Recapitulação de Lógica\\002 - dadosCompletos\\dadosCompletos\\dadosCompletos.csproj",
         "projectName": "dadosCompletos",
-        "projectPath": "C:\\Users\\phili\\Documents\\estudo\\C-Sharp\\estudo-C-Sharp\\003 - Recapitulação de Lógica\\dadosCompletos\\dadosCompletos\\dadosCompletos.csproj",
+        "projectPath": "C:\\Users\\phili\\Documents\\estudo\\C-Sharp\\estudo-C-Sharp\\003 - Recapitulação de Lógica\\002 - dadosCompletos\\dadosCompletos\\dadosCompletos.csproj",
         "packagesPath": "C:\\Users\\phili\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\phili\\Documents\\estudo\\C-Sharp\\estudo-C-Sharp\\003 - Recapitulação de Lógica\\dadosCompletos\\dadosCompletos\\obj\\",
+        "outputPath": "C:\\Users\\phili\\Documents\\estudo\\C-Sharp\\estudo-C-Sharp\\003 - Recapitulação de Lógica\\002 - dadosCompletos\\dadosCompletos\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -62,9 +62,6 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
