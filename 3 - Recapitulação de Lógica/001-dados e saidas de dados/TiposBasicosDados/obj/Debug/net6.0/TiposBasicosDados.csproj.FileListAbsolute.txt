@@ -1,0 +1,15 @@
+C:\Users\phili\Documents\estudo\C-Sharp\3 - Recapitulação de Lógica\TiposBasicosDados\TiposBasicosDados\bin\Debug\net6.0\TiposBasicosDados.exe
+C:\Users\phili\Documents\estudo\C-Sharp\3 - Recapitulação de Lógica\TiposBasicosDados\TiposBasicosDados\bin\Debug\net6.0\TiposBasicosDados.deps.json
+C:\Users\phili\Documents\estudo\C-Sharp\3 - Recapitulação de Lógica\TiposBasicosDados\TiposBasicosDados\bin\Debug\net6.0\TiposBasicosDados.runtimeconfig.json
+C:\Users\phili\Documents\estudo\C-Sharp\3 - Recapitulação de Lógica\TiposBasicosDados\TiposBasicosDados\bin\Debug\net6.0\TiposBasicosDados.dll
+C:\Users\phili\Documents\estudo\C-Sharp\3 - Recapitulação de Lógica\TiposBasicosDados\TiposBasicosDados\bin\Debug\net6.0\TiposBasicosDados.pdb
+C:\Users\phili\Documents\estudo\C-Sharp\3 - Recapitulação de Lógica\TiposBasicosDados\TiposBasicosDados\obj\Debug\net6.0\TiposBasicosDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phili\Documents\estudo\C-Sharp\3 - Recapitulação de Lógica\TiposBasicosDados\TiposBasicosDados\obj\Debug\net6.0\TiposBasicosDados.AssemblyInfoInputs.cache
+C:\Users\phili\Documents\estudo\C-Sharp\3 - Recapitulação de Lógica\TiposBasicosDados\TiposBasicosDados\obj\Debug\net6.0\TiposBasicosDados.AssemblyInfo.cs
+C:\Users\phili\Documents\estudo\C-Sharp\3 - Recapitulação de Lógica\TiposBasicosDados\TiposBasicosDados\obj\Debug\net6.0\TiposBasicosDados.csproj.CoreCompileInputs.cache
+C:\Users\phili\Documents\estudo\C-Sharp\3 - Recapitulação de Lógica\TiposBasicosDados\TiposBasicosDados\obj\Debug\net6.0\TiposBasicosDados.sourcelink.json
+C:\Users\phili\Documents\estudo\C-Sharp\3 - Recapitulação de Lógica\TiposBasicosDados\TiposBasicosDados\obj\Debug\net6.0\TiposBasicosDados.dll
+C:\Users\phili\Documents\estudo\C-Sharp\3 - Recapitulação de Lógica\TiposBasicosDados\TiposBasicosDados\obj\Debug\net6.0\refint\TiposBasicosDados.dll
+C:\Users\phili\Documents\estudo\C-Sharp\3 - Recapitulação de Lógica\TiposBasicosDados\TiposBasicosDados\obj\Debug\net6.0\TiposBasicosDados.pdb
+C:\Users\phili\Documents\estudo\C-Sharp\3 - Recapitulação de Lógica\TiposBasicosDados\TiposBasicosDados\obj\Debug\net6.0\TiposBasicosDados.genruntimeconfig.cache
+C:\Users\phili\Documents\estudo\C-Sharp\3 - Recapitulação de Lógica\TiposBasicosDados\TiposBasicosDados\obj\Debug\net6.0\ref\TiposBasicosDados.dll
