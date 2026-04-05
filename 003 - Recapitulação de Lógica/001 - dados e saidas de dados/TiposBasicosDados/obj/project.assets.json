@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\phili\\Documents\\estudo\\C-Sharp\\estudo-C-Sharp\\003 - Recapitulação de Lógica\\001-dados e saidas de dados\\TiposBasicosDados\\TiposBasicosDados.csproj",
+      "projectUniqueName": "C:\\Users\\phili\\Documents\\estudo\\C-Sharp\\estudo-C-Sharp\\003 - Recapitulação de Lógica\\001 - dados e saidas de dados\\TiposBasicosDados\\TiposBasicosDados.csproj",
       "projectName": "TiposBasicosDados",
-      "projectPath": "C:\\Users\\phili\\Documents\\estudo\\C-Sharp\\estudo-C-Sharp\\003 - Recapitulação de Lógica\\001-dados e saidas de dados\\TiposBasicosDados\\TiposBasicosDados.csproj",
+      "projectPath": "C:\\Users\\phili\\Documents\\estudo\\C-Sharp\\estudo-C-Sharp\\003 - Recapitulação de Lógica\\001 - dados e saidas de dados\\TiposBasicosDados\\TiposBasicosDados.csproj",
       "packagesPath": "C:\\Users\\phili\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\phili\\Documents\\estudo\\C-Sharp\\estudo-C-Sharp\\003 - Recapitulação de Lógica\\001-dados e saidas de dados\\TiposBasicosDados\\obj\\",
+      "outputPath": "C:\\Users\\phili\\Documents\\estudo\\C-Sharp\\estudo-C-Sharp\\003 - Recapitulação de Lógica\\001 - dados e saidas de dados\\TiposBasicosDados\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
