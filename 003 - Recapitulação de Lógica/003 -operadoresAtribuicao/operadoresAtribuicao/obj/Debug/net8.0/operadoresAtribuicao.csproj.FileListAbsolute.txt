@@ -1,0 +1,15 @@
+C:\Users\phili\Documents\estudo\C-Sharp\estudo-C-Sharp\003 - Recapitulação de Lógica\operadoresAtribuicao\operadoresAtribuicao\bin\Debug\net8.0\operadoresAtribuicao.exe
+C:\Users\phili\Documents\estudo\C-Sharp\estudo-C-Sharp\003 - Recapitulação de Lógica\operadoresAtribuicao\operadoresAtribuicao\bin\Debug\net8.0\operadoresAtribuicao.deps.json
+C:\Users\phili\Documents\estudo\C-Sharp\estudo-C-Sharp\003 - Recapitulação de Lógica\operadoresAtribuicao\operadoresAtribuicao\bin\Debug\net8.0\operadoresAtribuicao.runtimeconfig.json
+C:\Users\phili\Documents\estudo\C-Sharp\estudo-C-Sharp\003 - Recapitulação de Lógica\operadoresAtribuicao\operadoresAtribuicao\bin\Debug\net8.0\operadoresAtribuicao.dll
+C:\Users\phili\Documents\estudo\C-Sharp\estudo-C-Sharp\003 - Recapitulação de Lógica\operadoresAtribuicao\operadoresAtribuicao\bin\Debug\net8.0\operadoresAtribuicao.pdb
+C:\Users\phili\Documents\estudo\C-Sharp\estudo-C-Sharp\003 - Recapitulação de Lógica\operadoresAtribuicao\operadoresAtribuicao\obj\Debug\net8.0\operadoresAtribuicao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phili\Documents\estudo\C-Sharp\estudo-C-Sharp\003 - Recapitulação de Lógica\operadoresAtribuicao\operadoresAtribuicao\obj\Debug\net8.0\operadoresAtribuicao.AssemblyInfoInputs.cache
+C:\Users\phili\Documents\estudo\C-Sharp\estudo-C-Sharp\003 - Recapitulação de Lógica\operadoresAtribuicao\operadoresAtribuicao\obj\Debug\net8.0\operadoresAtribuicao.AssemblyInfo.cs
+C:\Users\phili\Documents\estudo\C-Sharp\estudo-C-Sharp\003 - Recapitulação de Lógica\operadoresAtribuicao\operadoresAtribuicao\obj\Debug\net8.0\operadoresAtribuicao.csproj.CoreCompileInputs.cache
+C:\Users\phili\Documents\estudo\C-Sharp\estudo-C-Sharp\003 - Recapitulação de Lógica\operadoresAtribuicao\operadoresAtribuicao\obj\Debug\net8.0\operadoresAtribuicao.sourcelink.json
+C:\Users\phili\Documents\estudo\C-Sharp\estudo-C-Sharp\003 - Recapitulação de Lógica\operadoresAtribuicao\operadoresAtribuicao\obj\Debug\net8.0\operadoresAtribuicao.dll
+C:\Users\phili\Documents\estudo\C-Sharp\estudo-C-Sharp\003 - Recapitulação de Lógica\operadoresAtribuicao\operadoresAtribuicao\obj\Debug\net8.0\refint\operadoresAtribuicao.dll
+C:\Users\phili\Documents\estudo\C-Sharp\estudo-C-Sharp\003 - Recapitulação de Lógica\operadoresAtribuicao\operadoresAtribuicao\obj\Debug\net8.0\operadoresAtribuicao.pdb
+C:\Users\phili\Documents\estudo\C-Sharp\estudo-C-Sharp\003 - Recapitulação de Lógica\operadoresAtribuicao\operadoresAtribuicao\obj\Debug\net8.0\operadoresAtribuicao.genruntimeconfig.cache
+C:\Users\phili\Documents\estudo\C-Sharp\estudo-C-Sharp\003 - Recapitulação de Lógica\operadoresAtribuicao\operadoresAtribuicao\obj\Debug\net8.0\ref\operadoresAtribuicao.dll
